@@ -1,0 +1,45 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Greeting Component > should render  1`] = `
+<DocumentFragment>
+  <div>
+    <h1>
+      Bab
+    </h1>
+    <button>
+      +
+    </button>
+    <button>
+      -
+    </button>
+    <p>
+      Count : 0
+    </p>
+    <div>
+      Loading...
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Greeting Component > should render snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <h1>
+      Bab
+    </h1>
+    <button>
+      +
+    </button>
+    <button>
+      -
+    </button>
+    <p>
+      Count : 0
+    </p>
+    <div>
+      Loading...
+    </div>
+  </div>
+</DocumentFragment>
+`;
